@@ -22,7 +22,7 @@ No es necesario instalar .NET ni SQL Server localmente.
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/rudysh/pruebaTecnica.git
 cd pruebaTecnica
 
 docker compose up --build
